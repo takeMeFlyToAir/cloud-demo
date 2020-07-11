@@ -4,6 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * @ClassName CommonResult
+ * Description TODO
+ * Author zhaozhirong
+ * Date 2020/7/11 16:43
+ * Version 1.0
+ **/
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
