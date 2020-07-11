@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: com.zzr.cloud-order-service
+    name: cloud-order-service
 
 eureka:
   client:
